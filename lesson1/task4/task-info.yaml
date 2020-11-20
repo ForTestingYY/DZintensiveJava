@@ -1,0 +1,30 @@
+type: ide
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+       public static void main(String[] args) {
+          // Write your solution here
+       }
+
+
+    }
+  learner_created: false
+- name: test/output.txt
+  visible: false
+  learner_created: false
+- name: src/Animal.java
+  visible: true
+  learner_created: true
+- name: src/Cat.java
+  visible: true
+  learner_created: true
+- name: src/Dog.java
+  visible: true
+  learner_created: true
+- name: src/Snake.java
+  visible: true
+  learner_created: true
+status: Unchecked
+record: -1
